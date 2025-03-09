@@ -5,7 +5,7 @@ This is a React-based Admin Dashboard built with Material-UI (MUI), Recharts, an
 - Users 👥
 - Products 🛒
 
-Note: The dashboard reads data from a static `data.js` file and does not use a backend or database ##yet##
+Note: The dashboard reads data from a static `data.js` file and does not use a backend or database **yet**
 
 ## 🛠️ Technologies Used
 - React ⚛️
